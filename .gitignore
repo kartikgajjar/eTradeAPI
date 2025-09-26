@@ -116,3 +116,6 @@ dmypy.json
 
 # Log files
 python_client.log
+
+# Config files
+config.ini
